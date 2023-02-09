@@ -1,2 +1,1 @@
-# Prepcourse-henrry
-Este es un repositorio de prueba de modulo 2
+Este proyecto es una prueba de clonacion de repositorio en github
